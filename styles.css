@@ -1,0 +1,32 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #111B21;
+    padding: 0;
+    color: beige;
+
+}
+
+.mainDiv{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+    height: 50vh;
+    /* width: 100vw; */
+}
+a{
+    color: beige;
+
+    text-decoration: none;
+    font-size: 30px;
+}
+h1{
+    align-items: center;
+    text-align: center;
+}
+
+
