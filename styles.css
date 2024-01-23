@@ -11,10 +11,11 @@ body {
 .mainDiv{
     
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    padding: 20px;
-    margin: 20px;
+    flex-direction: column;
+    padding: 50px;
+    margin: 50px;
     height: 50vh;
     /* width: 100vw; */
 }
@@ -23,6 +24,8 @@ a{
 
     text-decoration: none;
     font-size: 30px;
+    padding: 50px;
+
 }
 h1{
     align-items: center;
